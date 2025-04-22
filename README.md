@@ -1,7 +1,7 @@
 # Paginas-Web
 # 🌐 Proyectos Web Personales
 
-Este repositorio contiene una colección de páginas web que he creado como parte de mi aprendizaje y desarrollo personal como desarrollador/a web. Aquí iré subiendo distintos proyectos construidos desde cero utilizando HTML, CSS y JavaScript.
+Este repositorio contiene una colección de páginas web que he creado como parte de mi aprendizaje y desarrollo personal como desarrollador web. Aquí iré subiendo distintos proyectos construidos desde cero utilizando HTML, CSS y JavaScript.
 
 ## 📁 Pagina web de ADULAM
 
